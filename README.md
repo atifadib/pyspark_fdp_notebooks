@@ -7,6 +7,7 @@
 - Using Managed services like EMR and Zeppelin
 - Working with Different File Formats
 - RDD to DataFrames
+- Skewed Datasets and Salting
 - Optimizations with DataFrames
 - Reading from a stream of Data
 - Saving a Stream
